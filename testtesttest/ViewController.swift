@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         print("hello")
         // Do any additional setup after loading the view.
     }
+    func what() {
+        print("Something else")
+    }
 
 
 }
